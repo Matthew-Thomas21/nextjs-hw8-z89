@@ -3,7 +3,11 @@ export default function ProjectInfo() {
     <div style={{ margin: '2em 0' }}>
       <h2>About My Project</h2>
       <p>
-        This project demonstrates React components, props, and API interaction using Next.js. 
+        For my final project, we plan to build a strong Course planner and Degree Tracker.
+        The goal is to help students organize their classes by each semester and monitor degree progress
+        and make sure they meet graduation requirements. This project will showcase how Next.js and React
+        can be used to create an interactive interface that integrates both frontend and backend logic
+        for managing academic plans.
       </p>
       <p>
         View the GitHub repository for this project:
